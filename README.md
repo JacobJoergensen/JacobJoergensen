@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JacobJoergensen
-- 👀 I’m interested in film, art and website & game design and development.
+- 👀 I’m interested in website development & game design.
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me ???
